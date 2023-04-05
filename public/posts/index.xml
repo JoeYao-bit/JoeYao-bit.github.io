@@ -1,19 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on JoeYao&#39;s Hugo Site</title>
-    <link>https://joeyao-bit.github.io/posts/</link>
-    <description>Recent content in Posts on JoeYao&#39;s Hugo Site</description>
+    <title>Archives on Hugo Ava Theme</title>
+    <link>/posts/</link>
+    <description>Recent content in Archives on Hugo Ava Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2023 16:49:26 +0800</lastBuildDate><atom:link href="https://joeyao-bit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 11:11:11 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://joeyao-bit.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 05 Apr 2023 16:49:26 +0800</pubDate>
+      <title>Example 8</title>
+      <link>/2023/01/05/example-8/</link>
+      <pubDate>Thu, 05 Jan 2023 11:11:11 +0100</pubDate>
       
-      <guid>https://joeyao-bit.github.io/posts/my-first-post/</guid>
-      <description>## Introduction This is **bold** text, and this is *emphasized* text. Visit the [Hugo](https://gohugo.io) website! </description>
+      <guid>/2023/01/05/example-8/</guid>
+      <description>Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+Mambo n°5</description>
+    </item>
+    
+    <item>
+      <title>Example 7</title>
+      <link>/2021/08/07/example-7/</link>
+      <pubDate>Sat, 07 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/07/example-7/</guid>
+      <description>Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+Non, rien de rien
+Non, je ne regrette rien
+C&amp;rsquo;est payé, balayé, oublié
+Je me fous du passé !</description>
+    </item>
+    
+    <item>
+      <title>Example 6</title>
+      <link>/2021/08/06/example-6/</link>
+      <pubDate>Fri, 06 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/06/example-6/</guid>
+      <description> Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+first second third </description>
+    </item>
+    
+    <item>
+      <title>Example 5</title>
+      <link>/2021/08/05/example-5/</link>
+      <pubDate>Thu, 05 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/05/example-5/</guid>
+      <description>First Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+2nd Non, rien de rien
+Non, je ne regrette rien
+C&amp;rsquo;est payé, balayé, oublié
+Je me fous du passé !</description>
+    </item>
+    
+    <item>
+      <title>Example 4</title>
+      <link>/2021/08/04/example-4/</link>
+      <pubDate>Wed, 04 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/04/example-4/</guid>
+      <description>Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+Non, rien de rien
+Non, je ne regrette rien
+C&amp;rsquo;est payé, balayé, oublié
+Je me fous du passé !</description>
+    </item>
+    
+    <item>
+      <title>Example 3</title>
+      <link>/2021/08/03/example-3/</link>
+      <pubDate>Tue, 03 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/03/example-3/</guid>
+      <description>factorial n = go n 1 where go n res | n &amp;gt; 1 = go (n - 1) (res * n) | otherwise = res </description>
+    </item>
+    
+    <item>
+      <title>Example 2</title>
+      <link>/2021/08/02/example-2/</link>
+      <pubDate>Mon, 02 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/02/example-2/</guid>
+      <description> Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+first second third </description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/2021/08/01/example/</link>
+      <pubDate>Sun, 01 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>/2021/08/01/example/</guid>
+      <description>Non, rien de rien
+Non, je ne regrette rien
+Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
+Ni le mal, tout ça m&amp;rsquo;est bien égal !
+Non, rien de rien
+Non, je ne regrette rien
+C&amp;rsquo;est payé, balayé, oublié
+Je me fous du passé !</description>
     </item>
     
   </channel>
