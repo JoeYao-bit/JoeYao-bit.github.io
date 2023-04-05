@@ -35,13 +35,13 @@ canonifyURLs = true
   
 
   [params.meta_tags]
-    meta_description = "Ava is a light theme for your blog with essential features you might dig in."
+    meta_description = "YaoZhuo's Homepage"
     meta_og_title = "YaoZhuo's Homepage"
     meta_og_sitename = "YaoZhuo's Homepage"
     meta_og_type = "website"
-    meta_og_url = "https://jmau111.github.io/hugo-theme-ava-demo"
-    meta_og_image = "img/110404-1521083044b19d.jpeg"
-    meta_og_description = "Ava is a light theme for your blog with essential features you might dig in."
+    #meta_og_url = "https://jmau111.github.io/hugo-theme-ava-demo"
+    #meta_og_image = "img/110404-1521083044b19d.jpeg"
+    #meta_og_description = "Ava is a light theme for your blog with essential features you might dig in."
     #meta_twitter_card = "summary"
     #meta_twitter_site = "@gohugoio"
     #meta_twitter_creator = "@gohugoio"
