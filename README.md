@@ -10,7 +10,7 @@ Final URL is [here](https://jmau111.github.io/hugo-theme-ava-demo)
 
 ## Update
 
-Grab the latest version of AVA:
+Grab the latest version of theme:
 
 ```
 git submodule update --remote --merge

@@ -1,97 +1,51 @@
-baseURL = "/"
-languageCode = "en"
-title = "YaoZhuo's Homepage"
-theme = "hugo-theme-ava"
-paginate = 7
-mainSections = "post"
-
-[outputs]
-  home = ["HTML", "humanstxt"]
-  
-  [outputFormats.humanstxt]
-    baseName = "humans"
-    isPlainText = true
-    mediaType = "text/plain"
-
-[languages]
-  [languages.en]
-      languageName = "English"
-
+baseURL = "https://example.com"
+title = "Yao Zhuo's website"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
 enableEmoji = true
+googleAnalytics = ""
 enableRobotsTXT = true
-canonifyURLs = true
+copyright = "&copy; 2023, Yao Zhuo"
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.87.0"
-    
-[params]
-  ga_id=""
-  mainSections = ["post"]
-  disqus = "xxxxxxx"
-  defaultImage = "img/110404-1521083044b19d.jpg"
-  #"img/110404-1521083044b19d.jpg"
-  
-
-  [params.meta_tags]
-    meta_description = "YaoZhuo's Homepage"
-    meta_og_title = "YaoZhuo's Homepage"
-    meta_og_sitename = "YaoZhuo's Homepage"
-    meta_og_type = "website"
-    #meta_og_url = "https://jmau111.github.io/hugo-theme-ava-demo"
-    #meta_og_image = "img/110404-1521083044b19d.jpeg"
-    #meta_og_description = "Ava is a light theme for your blog with essential features you might dig in."
-    #meta_twitter_card = "summary"
-    #meta_twitter_site = "@gohugoio"
-    #meta_twitter_creator = "@gohugoio"
-    
-   [params.humans_txt]
-    dev_team = "jmau111"
-    dev_github = "https://github.com/jmau111"
-    thanks = ""
-    standards = "HTML, CSS, JavaScript"
-    components = "Hugo"
-    software = "Vim"
-    other_notes = "Made in Poland"
-
-[markup]
-    [markup.highlight]
-        codeFences = true
-        guessSyntax = true
-        lineNos = false
-        tabWidth = 4
-        noClasses = false
-        pygmentsUseClasses = true
-        pygmentsCodefences = true
-
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe= true   
-
-    [markup.blackFriday]
-        angledQuotes = true
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
     name = "About"
+    title = "About"
     url = "/about/"
-    weight = 2
-
-[[menu.main]]
-    name = "Projects"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
     url = "/posts/"
-    weight = 3
+    weight = -100
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    title = "Categories"
+    url = "/categories/"
+    weight = -90
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+# Configuration Features
+[params]
+  description = "Your meta description"      # Your meta description of the site
+  header_title = "Yao Zhuo"                 # Your header title
+  header_subtitle = "PhD candidate, former algorithm engineer" # Your header subtitle
+  home_image = "img/53364341.jpeg"          # Path to header image starting from the static directory
+  recent_posts = 5                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    homeImageBorderColor = "#ffffff"
+    fontFamilyBase = "Helvetica Neue"        # First-choice font
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "https://github.com/JoeYao-bit"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-mail-in fa-1x"
+    href = ""
 
-[permalinks]
-  posts = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
