@@ -33,7 +33,7 @@ copyright = "&copy; 2023, Yao Zhuo"
 # Configuration Features
 [params]
   description = "Your meta description"      # Your meta description of the site
-  header_title = "Yao Zhuo"                 # Your header title
+  header_title = "Yao Zhuo 姚卓"                 # Your header title
   header_subtitle = "PhD candidate, former algorithm engineer" # Your header subtitle
   home_image = "img/53364341.jpeg"          # Path to header image starting from the static directory
   recent_posts = 5                           # Max amount of recent posts to show
