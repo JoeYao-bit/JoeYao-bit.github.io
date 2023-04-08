@@ -6,7 +6,8 @@ date: 2021-08-01T11:11:11+01:00
 
 > What about me?  
 
-As a PhD candidate specializing in robot systems, my passion lies in path planning. Previously, I worked as a robot algorithm engineer, where I designed navigation and localization systems for bipedal robots and automowers.
+As a PhD candidate specializing in robot systems, my passion lies in fundalmental aspects in robotics. 
+Previously, I worked as a robot algorithm engineer, where I designed navigation and localization systems for bipedal robots and automowers.
 
 > Education
 

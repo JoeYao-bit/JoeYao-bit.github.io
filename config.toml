@@ -23,12 +23,13 @@ copyright = "&copy; 2023, Yao Zhuo"
     url = "/posts/"
     weight = -100
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    title = "Categories"
-    url = "/categories/"
+    identifier = "catergories"
+    name = "A Plea for Pure Science"
+    title = "A Plea for Pure Science"
+    url = "/a-plea-for-pure-science/"
     weight = -90
 
+    
 # Configuration Features
 [params]
   description = "Your meta description"      # Your meta description of the site
