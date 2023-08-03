@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-[JOB](LOS_with_jump_over_block.zip)(Jump Over Block) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning.
+[JOB](LOS_with_jump_over_block.zip)(Jump Over Block) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check. 
 
 ##### 3D block detection
 ![alt 属性文本](images/ourblock.png "3D block detection")
