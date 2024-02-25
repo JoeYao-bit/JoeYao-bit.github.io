@@ -2,31 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Yao Zhuo&#39;s website</title>
-    <link>https://joeyao-bit.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Projects on Yao Zhuo&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023, Yao Zhuo</copyright>
-    <lastBuildDate>Sun, 01 Aug 2021 11:11:11 +0100</lastBuildDate><atom:link href="https://joeyao-bit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 06:52:49 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distinctive topology path planning</title>
+      <link>http://localhost:1313/posts/2023/09/07/</link>
+      <pubDate>Thu, 07 Sep 2023 06:52:49 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2023/09/07/</guid>
+      <description>We proposed a tangent graph-based topologically distinctive path planning. It leverages the property that tangents form locally shortest paths, ensuring that any two locally shortest paths belong to different topologies.&#xA;Compared to existing algorithms, our approach requires no indicator to determine whether two paths belong to the same topology. Furthermore, it eliminates the need to repeat the search for multiple paths, as all distinctive paths can be found in a single search.</description>
+    </item>
     <item>
       <title>JOB</title>
-      <link>https://joeyao-bit.github.io/posts/2023/05/26/</link>
+      <link>http://localhost:1313/posts/2023/05/26/</link>
       <pubDate>Fri, 26 May 2023 06:52:49 +0800</pubDate>
-      
-      <guid>https://joeyao-bit.github.io/posts/2023/05/26/</guid>
-      <description>JOB(Jump Over Block) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check.
-3D block detection 2D block detection </description>
+      <guid>http://localhost:1313/posts/2023/05/26/</guid>
+      <description>JOB(Jump Over Block) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check.&#xA;3D block detection 2D block detection Source code: https://github.com/JoeYao-bit/JumpOverBlock&#xA;Map source: https://movingai.com/benchmarks/voxels.html</description>
     </item>
-    
-    <item>
-      <title>GPF</title>
-      <link>https://joeyao-bit.github.io/posts/2023/04/05/</link>
-      <pubDate>Wed, 05 Apr 2023 11:11:11 +0100</pubDate>
-      
-      <guid>https://joeyao-bit.github.io/posts/2023/04/05/</guid>
-      <description>GPF is a General graph-based Path planning Framework. It has already been implemented for three classic problems and has achieved state-of-the-art performance. The 3D dataset we use can be found in here while the 2D dataset can be found in here.
-3D shortest path planning 2D shortest path planning 2D distinctive topology path planning </description>
-    </item>
-    
   </channel>
 </rss>
