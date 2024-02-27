@@ -17,11 +17,11 @@
       <description>We proposed a tangent graph-based topologically distinctive path planning. It leverages the property that tangents form locally shortest paths, ensuring that any two locally shortest paths belong to different topologies.&#xA;Compared to existing algorithms, our approach requires no indicator to determine whether two paths belong to the same topology. Furthermore, it eliminates the need to repeat the search for multiple paths, as all distinctive paths can be found in a single search.</description>
     </item>
     <item>
-      <title>JOB</title>
+      <title>JumpOverBlock(JOB)</title>
       <link>http://localhost:1313/posts/2023/05/26/</link>
       <pubDate>Fri, 26 May 2023 06:52:49 +0800</pubDate>
       <guid>http://localhost:1313/posts/2023/05/26/</guid>
-      <description>JOB(Jump Over Block) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check.&#xA;3D block detection 2D block detection Source code: https://github.com/JoeYao-bit/JumpOverBlock&#xA;Map source: https://movingai.com/benchmarks/voxels.html</description>
+      <description>JumpOverBlock(JOB) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check.&#xA;3D block detection 2D block detection Source code: https://github.com/JoeYao-bit/JumpOverBlock&#xA;Map source: https://movingai.com/benchmarks/voxels.html</description>
     </item>
   </channel>
 </rss>

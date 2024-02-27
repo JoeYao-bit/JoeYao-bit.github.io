@@ -16,4 +16,6 @@ JumpOverBlock(JOB) is a versatile approach designed to expedite line-of-sight (L
 
 Source code: https://github.com/JoeYao-bit/JumpOverBlock
 
-Map source: https://movingai.com/benchmarks/voxels.html
+Map source: 
+(1) https://movingai.com/benchmarks/voxels.html
+(2) https://movingai.com/benchmarks/grids.html
