@@ -21,7 +21,7 @@
       <link>http://localhost:1313/posts/2023/05/26/</link>
       <pubDate>Fri, 26 May 2023 06:52:49 +0800</pubDate>
       <guid>http://localhost:1313/posts/2023/05/26/</guid>
-      <description>JumpOverBlock(JOB) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check.&#xA;3D block detection 2D block detection Source code: https://github.com/JoeYao-bit/JumpOverBlock&#xA;Map source: https://movingai.com/benchmarks/voxels.html</description>
+      <description>JumpOverBlock(JOB) is a versatile approach designed to expedite line-of-sight (LOS) checks across maps of different dimensions. By significantly enhancing the efficiency of LOS calculations, this method optimizes the overall process of path planning or motion planning. JOB split passable space into blocks, and jump over them during LOS check to accelerate LOS check.&#xA;3D block detection 2D block detection Source code: https://github.com/JoeYao-bit/JumpOverBlock&#xA;Map source: (1) https://movingai.com/benchmarks/voxels.html (2) https://movingai.com/benchmarks/grids.html</description>
     </item>
   </channel>
 </rss>
