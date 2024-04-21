@@ -14,7 +14,7 @@ To foster further exploration within the research community, we have made the so
 
 Source code: https://github.com/JoeYao-bit/LayeredMAPF
 
-##### Instance decomposition
-![alt 属性文本](images/overview4.png "Instance decomposition")
+##### Instance decomposition overview
+![alt 属性文本](images/overview4.png)
 
 
